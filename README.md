@@ -14,8 +14,6 @@
 -   [Git](https://git-scm.com/) installed from the official site
 -   A password for your user account (if not using the Built-in System Account)
 -   System locale set to **English (United States)** to avoid character encoding issues
-    -   See [issue 38702](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/38702) for more info
-
 ----------
 
 ## 📦 Installation Steps
